@@ -18,12 +18,11 @@ export default function Committee() {
             <div className="col-lg-6">
               <div className="member d-flex align-items-start">
                 <div className="pic">
-                  <img src="/team/team-1.jpg" className="img-fluid" alt="" />
+                  <img src="/team/sara.jpg" className="img-fluid" alt="" />
                 </div>
                 <div className="member-info">
                   <h4> Dr Saraless Nadarajah </h4>
                   <span>University of Manchester, UK</span>
-                  <p>Explicabo voluptatem mollitia et repellat</p>
                   <div className="social">
                     <Link href="">
                       <i className="bi bi-twitter"></i>
@@ -45,12 +44,11 @@ export default function Committee() {
             <div className="col-lg-6 mt-4 mt-lg-0">
               <div className="member d-flex align-items-start">
                 <div className="pic">
-                  <img src="/team/team-2.jpg" className="img-fluid" alt="" />
+                  <img src="/team/adamu.jpg" className="img-fluid" alt="" />
                 </div>
                 <div className="member-info">
                   <h4> Mr Adamu Abubakar Umar </h4>
                   <span>University of Manchester, UK</span>
-                  <p>Aut maiores voluptates amet et quis</p>
                   <div className="social">
                     <Link href="">
                       <i className="bi bi-twitter"></i>
@@ -75,9 +73,8 @@ export default function Committee() {
                   <img src="/team/team-3.jpg" className="img-fluid" alt="" />
                 </div>
                 <div className="member-info">
-                  <h4>Dr Emmanuel Ogungimu </h4>
+                  <h4>Dr Emmanuel Ogundimu </h4>
                   <span>University of Durham, UK</span>
-                  <p>Quisquam facilis cum velit laborum corrupti</p>
                   <div className="social">
                     <Link href="">
                       <i className="bi bi-twitter"></i>
@@ -104,7 +101,6 @@ export default function Committee() {
                 <div className="member-info">
                   <h4> Dr Edson Utazi </h4>
                   <span>University of Southampton, UK</span>
-                  <p>Dolorum tempora officiis odit laborum officiis</p>
                   <div className="social">
                     <Link href="">
                       <i className="bi bi-twitter"></i>

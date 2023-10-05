@@ -14,51 +14,39 @@ export default function Gallary() {
 
           <div className="row g-2">
             <div className="col-12 col-lg-6 col-md-5">
-              <div className="text-muted">Event @ Nigeria</div>
+              <div className="text-muted">Event @ Africa</div>
               <div className="card">
-                <img src="/image/slide-7.jpg" className="img-fluid " />
+                <img src="/imgs/gal4.jpg" className="img-fluid " />
               </div>
             </div>
             <div className="col-12 col-lg-6 col-md-5">
-              <div className="text-muted">Event @ South Africa</div>
+              <div className="text-muted">Event @ Africa</div>
               <div className="card">
-                <img src="/image/slide-6.jpg" className="img-fluid " />
+                <img src="/imgs/gal3.jpg" className="img-fluid " />
               </div>
             </div>
             <div className="col-12 col-lg-6 col-md-5">
-              <div className="text-muted">Event @ Morocco</div>
+              <div className="text-muted">Event @ Africa</div>
               <div className="card">
-                <img src="/image/slide-4.jpg" className="img-fluid " />
+                <img src="/imgs/gal2.jpg" className="img-fluid " />
               </div>
             </div>
             <div className="col-12 col-lg-6 col-md-5">
-              <div className="text-muted">Event @ Niger</div>
+              <div className="text-muted">Event @ Africa</div>
               <div className="card">
-                <img src="/image/slide-5.jpg" className="img-fluid " />
+                <img src="/imgs/gal1.jpg" className="img-fluid " />
               </div>
             </div>
             <div className="col-12 col-lg-6 col-md-5">
-              <div className="text-muted">Event @ Togo</div>
+              <div className="text-muted">Event @ Africa</div>
               <div className="card">
-                <img src="/imgs/work1.jpg" className="img-fluid " />
+                <img src="/imgs/gal5.jpg" className="img-responsive " />
               </div>
             </div>
             <div className="col-12 col-lg-6 col-md-5">
-              <div className="text-muted">Event @ Ghana</div>
+              <div className="text-muted">Event @ Africa</div>
               <div className="card">
-                <img src="/imgs/work2.jpg" className="img-fluid " />
-              </div>
-            </div>
-            <div className="col-12 col-lg-6 col-md-5">
-              <div className="text-muted">Event @ Sudan</div>
-              <div className="card">
-                <img src="/imgs/work4.jpg" className="img-fluid " />
-              </div>
-            </div>
-            <div className="col-12 col-lg-6 col-md-5">
-              <div className="text-muted">Event @ Cameroon</div>
-              <div className="card">
-                <img src="/imgs/work5.jpg" className="img-fluid " />
+                <img src="/imgs/gal6.jpg" className="img-responsive " />
               </div>
             </div>
           </div>

@@ -14,7 +14,7 @@ export default function Upcoming() {
             <div className="col-12">
               <div className="c-items">
                 <img
-                  src="/image/slide-1.jpg"
+                  src="/image/four.jpg"
                   className=" d-block w-100 img-fluid c-img"
                 />
               </div>

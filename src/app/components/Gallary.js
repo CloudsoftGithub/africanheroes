@@ -9,33 +9,38 @@ export default function PassEvent() {
             <p>Previous Workshop Events </p>
           </div>
 
-          <div className="row g-2">
-            <div className="col-6 col-lg-3">
-              <div className="card">
-                <img src="/image/slide-7.jpg" className="img-fluid " />
+          <div className="container">
+            <div className="row g-2">
+              <div className="col-6 col-lg-3">
+                <div className="card">
+                  <img src="/imgs/gal1.jpg" className="img-fluid " />
+                </div>
+              </div>
+              <div className="col-6 col-lg-3">
+                <div className="card">
+                  <img src="/imgs/gal2.jpg" className="img-fluid " />
+                </div>
+              </div>
+              <div className="col-6 col-lg-3">
+                <div className="card">
+                  <img src="/imgs/gal3.jpg" className="img-fluid " />
+                </div>
+              </div>
+              <div className="col-6 col-lg-3">
+                <div className="card">
+                  <img src="/imgs/gal4.jpg" className="img-fluid " />
+                </div>
               </div>
             </div>
-            <div className="col-6 col-lg-3">
-              <div className="card">
-                <img src="/image/slide-6.jpg" className="img-fluid " />
-              </div>
-            </div>
-            <div className="col-6 col-lg-3">
-              <div className="card">
-                <img src="/image/slide-4.jpg" className="img-fluid " />
-              </div>
-            </div>
-            <div className="col-6 col-lg-3" >
-              <div className="card">
-                <img src="/image/slide-5.jpg" className="img-fluid " />
-              </div>
-            </div>
-            
           </div>
-          <Link className="btn btn-outline-success mt-3 " href="https://educate-africa.github.io/"> Explore More</Link>
+          <Link
+            className="btn btn-outline-success mt-3 "
+            href="/gallary"
+          >
+            Explore More
+          </Link>
         </div>
       </section>
-      
     </>
   );
 }

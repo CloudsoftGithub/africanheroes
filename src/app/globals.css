@@ -43,9 +43,7 @@ h6 {
 /*--------------------------------------------------------------
 # image height
 --------------------------------------------------------------*/
-.c-items{
-  height: 250px;
-}
+
 .c-img{
   height: 100%;
   object-fit: cover;
@@ -346,13 +344,15 @@ box-shadow: none;
   object-fit: cover;
 }
 
-
+.section-b{
+  background: #4a5562;
+}
 
 #footer {
-  background: #4a5562;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
+  
 }
 
 #footer .footer-top {
@@ -466,7 +466,11 @@ box-shadow: none;
   font-weight: 400;
 }
 
-#footer .credits a:hover {
+#footer .credits  a:hover {
+  color: green;
+}
+
+.c-color a:hover {
   color: green;
 }
 /*--------------------------------------------------------------
@@ -474,13 +478,14 @@ box-shadow: none;
 --------------------------------------------------------------*/
 .about .content h2 {
   font-weight: 700;
-  font-size: 48px;
+  font-size: 30px;
   line-height: 60px;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
 
 .about .content h3 {
+  color: black;
   font-weight: 500;
   line-height: 32px;
   font-size: 24px;
@@ -771,7 +776,7 @@ section {
 .section-title p {
   margin: 0;
   margin: 0;
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;

@@ -7,7 +7,7 @@ export default function Speaker() {
         <div className="row">
           <div className="col-md-12">
             <div className="section-header text-center pb-5">
-              <p className="text-success fw-semibold">AFRICAN RESEARCHERS</p>
+              <p className="text-success fw-semibold">STATISTICAL RESEARCHERS</p>
             </div>
           </div>
         </div>

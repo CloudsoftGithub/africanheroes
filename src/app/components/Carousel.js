@@ -35,7 +35,7 @@ export default function Carousel() {
           <div className="carousel-inner">
             <div className="carousel-item active">
               <img
-                src="/imgs/work1.jpg"
+                src="/image/background.jpg"
                 className="d-block w-100 caro-img"
                 alt="..."
               />
@@ -43,15 +43,15 @@ export default function Carousel() {
               <div className="carousel-container">
                
                   <h2 className="animate__animated animate__fadeInUp">
-                    African Heros In Statistical Research <br /> 
-                    @ Department of Mathematics, <br />  University of Manchester, UK                    
+                    African Heroes In Statistical Research Workshop 2023 <br /> 
+                    @ University of Manchester, <br />United Kingdom                    
                   </h2>
                 </div>
               </div>
             </div>
             <div className="carousel-item">
               <img
-                src="/imgs/work4.jpg"
+                src="/imgs/gal2.jpg"
                 className="d-block w-100 caro-img"
                 alt="..."
               />
@@ -59,12 +59,12 @@ export default function Carousel() {
                 <div className="container">
                   <h2 className="animate__animated animate__fadeInDown">Purpose</h2>
                   <div className="animate__animated animate__fadeInUp">
-                    <div className="row text-center text-md-start">
-                      <div className="col-lg-6 col-md-5 col-6 d-flex align-items-center justify-content-center">
+                    <div className="row text-center text-md-start g-4">
+                      <div className="col-lg-6 col-md-5 col-12 d-flex align-items-center justify-content-center">
                         <h3>Present talks by African researchers in Africa. </h3> 
                       </div>
 
-                      <div className="col-lg-6 col-md-5 col-6 d-flex align-items-center justify-content-center">
+                      <div className="col-lg-6 col-md-5 col-12 d-flex align-items-center justify-content-center">
                         <small>
                           <h3>Showcase what researcher have achieved and plan to  achieved in future.</h3>
                          
@@ -77,7 +77,7 @@ export default function Carousel() {
             </div>
             <div className="carousel-item">
               <img
-                src="/imgs/work2.jpg"
+                src="/imgs/gal4.jpg"
                 className="d-block w-100 caro-img"
                 alt="..."
               />
@@ -89,13 +89,13 @@ export default function Carousel() {
                   <div className="animate__animated animate__fadeInUp">
                     <div className="row">
                     <div className="col-2"></div>
-                   <div className="col-8 text-start">
+                   <div className="col-12 text-start ">
                    <div>
                        <h3>Dr Saraless Nadarajah University of Manchester, UK&lsquo; </h3> 
                         <br />
                         <h3>Mr Adamu Abubakar Umar University of Manchester, UK&lsquo;</h3>
                         <br />
-                        <h3>Dr Emmanuel Ogungimu University of Durham, UK&lsquo;</h3>
+                        <h3>Dr Emmanuel Ogundimu University of Durham, UK&lsquo;</h3>
                         <br />
                        <h3> Dr Edson Utazi University of Southampton, UK&lsquo;</h3>
                       </div></div>

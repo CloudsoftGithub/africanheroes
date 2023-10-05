@@ -8,26 +8,27 @@ export default function About() {
       <section id="about" className="about">
         <div className="container">
           <div className="row content justify-content-center align-items-center">
-            <div className="col-lg-6">
+            <div className="row">
               <h2>
-                African <span className="text-success">Heroes</span>
+                African <span className="text-success">Heroes</span> in
+                Statistical Research Workshop 2023
               </h2>
-
-              <img src="/image/slide-3.jpg" className="img-fluid pt-2" />
+            </div>
+            <div className="col-lg-6">
+              <img src="/image/background.jpg" className="img-fluid pt-2" />
             </div>
             <div className="col-lg-6 pt-4 pt-lg-0 text-border">
-              <h3 className="fw-bolder">Background:</h3>
+              <h3 className="fw-bolder text-md-start">Background:</h3>
               <p className="lead">
-                According to an Elsevier report, only about 1% of the world&apos;s
-                research is by Africans Scholars in Africa. This is not because
-                Africans are not talented enough, they are not given enough
-                support or resources to conduct a research. instead, the
+                According to an Elsevier report, only about 1% of the
+                world&apos;s research is by Africans Scholars in Africa. This is
+                not because Africans are not talented enough, they are not given
+                enough support or resources to conduct a research. instead, the
                 outsiders (especially Europeans and North Americans) have been
                 keen on stealing data from Africa to publish papers for their
                 own promotion
               </p>
-              
-              
+
               <Link className="btn btn-outline-success" href="/about">
                 <i className="bi bi-chevron-right">Read more</i>
               </Link>

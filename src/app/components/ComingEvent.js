@@ -13,8 +13,8 @@ export default function ComingEvent() {
             <div className="col-12">
               <div className="c-items">
                 <img
-                  src="/image/slide-1.jpg"
-                  className=" d-block w-100 img-fluid c-img"
+                  src="/image/four.jpg"
+                  className=" w-100 h-50 img-fluid c-img"
                 />
               </div>
             </div>
