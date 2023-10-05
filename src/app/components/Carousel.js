@@ -91,7 +91,7 @@ export default function Carousel() {
                     <div className="col-2"></div>
                    <div className="col-12 text-start ">
                    <div>
-                       <h3>Dr Saraless Nadarajah University of Manchester, UK&lsquo; </h3> 
+                       <h3 >Dr Saraless Nadarajah University of Manchester, UK&lsquo; </h3> 
                         <br />
                         <h3>Mr Adamu Abubakar Umar University of Manchester, UK&lsquo;</h3>
                         <br />

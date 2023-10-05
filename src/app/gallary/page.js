@@ -40,13 +40,13 @@ export default function Gallary() {
             <div className="col-12 col-lg-6 col-md-5">
               <div className="text-muted">Event @ Africa</div>
               <div className="card">
-                <img src="/imgs/gal5.jpg" className="img-responsive " />
+                <img src="/imgs/gal5.jpg" className="img-fluid " />
               </div>
             </div>
             <div className="col-12 col-lg-6 col-md-5">
               <div className="text-muted">Event @ Africa</div>
               <div className="card">
-                <img src="/imgs/gal6.jpg" className="img-responsive " />
+                <img src="/imgs/gal6.jpg" className="img-fluid " />
               </div>
             </div>
           </div>

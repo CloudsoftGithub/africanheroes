@@ -14,16 +14,16 @@ export default function Footer() {
                     <div className="footer-info">
                       <p>
                         <strong className="text-light">Address: </strong>
-                        Alan Turing Building Universiy of Manchester, <br />
-                        Oxford Road, United Kingdom, M139PL
+                        Alan Turing Building, Universiy of Manchester, <br />
+                        Oxford Road, United Kingdom, M13 9PL
                       </p>
                     </div>
                   </div>
 
                   <div className="col-lg-6 col-md-6 footer-links">
-                    <strong>Phone:</strong> +44 161 275 512
-                    <br />
-                    <strong>Email:</strong> saraless.Nadarajah@manchester.ac.uk
+                    <strong>Phone:</strong> +44 161 275 5912
+                    <br /> 
+                    <strong>Email:</strong> Saraless.Nadarajah@manchester.ac.uk
                     <br />
                   </div>
 
